@@ -192,38 +192,38 @@ An MCP server runs as a trusted extension of your assistant, with your files and
 
 ### Productivity
 
-| Server                                                                                                           | Description                                                                    | Language   |
-| ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ---------- |
-| [AI Tasker](https://ai-tasker.theboomer.dev)                                                                     | Hosted task, workspace, and agent coordination for AI teams                    | Remote     |
-| [Aident Loadout](https://github.com/Aident-AI/aident-skill)                                                      | Connect agents to 1000+ apps via one remote MCP with Vault                     | Remote     |
-| [Airtable MCP](https://github.com/domdomegg/airtable-mcp-server)                                                 | Airtable base read/write                                                       | TypeScript |
-| [Asana MCP](https://github.com/roychri/mcp-server-asana)                                                         | Asana tasks, projects, workspaces                                              | TypeScript |
-| [CareClinic](https://careclinic.io/careclinic-mcp/)                                                              | Read medication schedules, symptoms and moods, and save confirmed check-ins    | Remote     |
-| [Clera](https://www.getclera.com/mcp)                                                                            | Search vetted startup candidates, review role matches and request intros       | Remote     |
+| Server                                                                                                           | Description                                                                      | Language   |
+| ---------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- |
+| [AI Tasker](https://ai-tasker.theboomer.dev)                                                                     | Hosted task, workspace, and agent coordination for AI teams                      | Remote     |
+| [Aident Loadout](https://github.com/Aident-AI/aident-skill)                                                      | Connect agents to 1000+ apps via one remote MCP with Vault                       | Remote     |
+| [Airtable MCP](https://github.com/domdomegg/airtable-mcp-server)                                                 | Airtable base read/write                                                         | TypeScript |
+| [Asana MCP](https://github.com/roychri/mcp-server-asana)                                                         | Asana tasks, projects, workspaces                                                | TypeScript |
+| [CareClinic](https://careclinic.io/careclinic-mcp/)                                                              | Read medication schedules, symptoms and moods, and save confirmed check-ins      | Remote     |
+| [Clera](https://www.getclera.com/mcp)                                                                            | Search vetted startup candidates, review role matches and request intros         | Remote     |
 | [depot.fitness](https://depot.fitness/connect)                                                                   | Search 101 written-out strength programs and 539 exercises, save to your library | Remote     |
-| [Excel MCP](https://github.com/haris-musa/excel-mcp-server)                                                      | Read, write and format Excel workbooks without Excel installed                 | Python     |
-| [fitlog-mcp](https://github.com/hahahahahahahahah6/fitlog-mcp)                                                   | Self-hosted MCP server giving Alexa+ a memory for training                     | Python     |
-| [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp)                                             | Google Calendar management                                                     | TypeScript |
-| [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp)                                    | Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms and Tasks in one server     | Python     |
-| [iMCP](https://github.com/mattt/iMCP)                                                                            | Exposes macOS Messages, Contacts, Calendar and Reminders to agents             | Swift      |
-| [Make MCP](https://github.com/integromat/make-mcp-server)                                                        | Official Make server turning scenarios into callable agent tools               | TypeScript |
-| [Microsoft 365 MCP](https://github.com/Softeria/ms-365-mcp-server)                                               | Full M365 suite (Outlook, OneDrive, Teams, Excel)                              | TypeScript |
-| [MindMap AI](https://github.com/MindMap-AI/mcp)                                                                  | Create and edit visual mind maps from MCP-compatible AI assistants             | TypeScript |
-| [monday.com MCP](https://github.com/mondaycom/mcp)                                                               | Official monday.com boards, items and workspace automation                     | TypeScript |
-| [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp)                                        | Calculate regional prayer times and next-prayer countdowns                     | TypeScript |
-| [NeverApply](https://neverapply.co/features/mcp)                                                                 | Search jobs, tailor resumes and apply to jobs with your approval over OAuth    | Remote     |
-| [Nextcloud MCP](https://github.com/cbcoutinho/nextcloud-mcp-server)                                              | Nextcloud Notes, Files, Calendar, Tasks, Deck and Talk access                  | Python     |
-| [Notion MCP](https://github.com/makenotion/notion-mcp-server)                                                    | Official Notion API integration                                                | TypeScript |
-| [OpenFile](https://joinopenfile.com/docs/mcp)                                                                    | Form U.S. companies and file U.S. trademarks, with live USPTO search           | Remote     |
-| [Orbit MCP](https://github.com/Noveum/orbit)                                                                     | Manage issues, projects, sprints and docs with workspace-scoped OAuth          | TypeScript |
-| [Plane MCP](https://github.com/makeplane/plane-mcp-server)                                                       | Official Plane projects, work items and cycles automation                      | Python     |
-| [Slack MCP](https://github.com/korotovsky/slack-mcp-server)                                                      | Slack workspace integration                                                    | Go         |
-| [Tale](https://github.com/tale-project/tale)                                                                     | Author and run Tale automations, inspect runs and query workspace knowledge    | Built-in   |
-| [Trello MCP](https://github.com/delorenj/mcp-server-trello)                                                      | Trello boards, lists, cards                                                    | TypeScript |
-| [urlhub](https://urlhub.cloud/docs?lang=en)                                                                      | Turn many links into one short shareable link with a QR code                   | Remote     |
-| [US Federal Holidays Business Days MCP](https://github.com/theluckystrike/us-federal-holidays-business-days-mcp) | Exact US business days, OPM and Federal Reserve holidays and invoice due dates | TypeScript |
-| [Worklittle Jobs](https://docs.worklittle.com/mcp)                                                               | Search 4M+ jobs with visa, salary and distance filters, and apply from chat    | Remote     |
-| [Zovo Time Tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker)                | Log hours per client and project, with daily and weekly reports and CSV export | TypeScript |
+| [Excel MCP](https://github.com/haris-musa/excel-mcp-server)                                                      | Read, write and format Excel workbooks without Excel installed                   | Python     |
+| [fitlog-mcp](https://github.com/hahahahahahahahah6/fitlog-mcp)                                                   | Self-hosted MCP server giving Alexa+ a memory for training                       | Python     |
+| [Google Calendar MCP](https://github.com/nspady/google-calendar-mcp)                                             | Google Calendar management                                                       | TypeScript |
+| [Google Workspace MCP](https://github.com/taylorwilsdon/google_workspace_mcp)                                    | Gmail, Calendar, Docs, Sheets, Slides, Chat, Forms and Tasks in one server       | Python     |
+| [iMCP](https://github.com/mattt/iMCP)                                                                            | Exposes macOS Messages, Contacts, Calendar and Reminders to agents               | Swift      |
+| [Make MCP](https://github.com/integromat/make-mcp-server)                                                        | Official Make server turning scenarios into callable agent tools                 | TypeScript |
+| [Microsoft 365 MCP](https://github.com/Softeria/ms-365-mcp-server)                                               | Full M365 suite (Outlook, OneDrive, Teams, Excel)                                | TypeScript |
+| [MindMap AI](https://github.com/MindMap-AI/mcp)                                                                  | Create and edit visual mind maps from MCP-compatible AI assistants               | TypeScript |
+| [monday.com MCP](https://github.com/mondaycom/mcp)                                                               | Official monday.com boards, items and workspace automation                       | TypeScript |
+| [Muslim Prayer Reminder MCP](https://github.com/tareq7/muslim-prayer-mcp)                                        | Calculate regional prayer times and next-prayer countdowns                       | TypeScript |
+| [NeverApply](https://neverapply.co/features/mcp)                                                                 | Search jobs, tailor resumes and apply to jobs with your approval over OAuth      | Remote     |
+| [Nextcloud MCP](https://github.com/cbcoutinho/nextcloud-mcp-server)                                              | Nextcloud Notes, Files, Calendar, Tasks, Deck and Talk access                    | Python     |
+| [Notion MCP](https://github.com/makenotion/notion-mcp-server)                                                    | Official Notion API integration                                                  | TypeScript |
+| [OpenFile](https://joinopenfile.com/docs/mcp)                                                                    | Form U.S. companies and file U.S. trademarks, with live USPTO search             | Remote     |
+| [Orbit MCP](https://github.com/Noveum/orbit)                                                                     | Manage issues, projects, sprints and docs with workspace-scoped OAuth            | TypeScript |
+| [Plane MCP](https://github.com/makeplane/plane-mcp-server)                                                       | Official Plane projects, work items and cycles automation                        | Python     |
+| [Slack MCP](https://github.com/korotovsky/slack-mcp-server)                                                      | Slack workspace integration                                                      | Go         |
+| [Tale](https://github.com/tale-project/tale)                                                                     | Author and run Tale automations, inspect runs and query workspace knowledge      | Built-in   |
+| [Trello MCP](https://github.com/delorenj/mcp-server-trello)                                                      | Trello boards, lists, cards                                                      | TypeScript |
+| [urlhub](https://urlhub.cloud/docs?lang=en)                                                                      | Turn many links into one short shareable link with a QR code                     | Remote     |
+| [US Federal Holidays Business Days MCP](https://github.com/theluckystrike/us-federal-holidays-business-days-mcp) | Exact US business days, OPM and Federal Reserve holidays and invoice due dates   | TypeScript |
+| [Worklittle Jobs](https://docs.worklittle.com/mcp)                                                               | Search 4M+ jobs with visa, salary and distance filters, and apply from chat      | Remote     |
+| [Zovo Time Tracker](https://github.com/theluckystrike/mcp-servers/tree/main/servers/time-tracker)                | Log hours per client and project, with daily and weekly reports and CSV export   | TypeScript |
 
 ### Search & Knowledge
 
@@ -275,7 +275,7 @@ An MCP server runs as a trusted extension of your assistant, with your files and
 | [Call Me](https://github.com/radres/call-me)                             | Agents ring or text your own phone and get your spoken answer back as text      | Remote     |
 | [CosVoice](https://github.com/CosVoice/cosvoice-mcp)                     | Real US phone number and email for agents: calls, texts, bookings, summaries    | Remote     |
 | [Discourse MCP](https://github.com/discourse/discourse-mcp)              | Official Discourse forum search, topic reading and posting                      | TypeScript |
-| [Fezola](https://app.fezola.com/en/docs) | Read, search and draft across Gmail, IMAP, Google Chat and Telegram inboxes | Remote |
+| [Fezola](https://app.fezola.com/en/docs)                                 | Read, search and draft across Gmail, IMAP, Google Chat and Telegram inboxes     | Remote     |
 | [Joinly](https://github.com/joinly-ai/joinly)                            | Join Zoom, Google Meet and Teams calls to transcribe and act live               | Python     |
 | [LINE Bot MCP](https://github.com/line/line-bot-mcp-server)              | Official LINE Messaging API server for sending and managing messages            | TypeScript |
 | [Mailgun MCP](https://github.com/mailgun/mailgun-mcp-server)             | Official Mailgun email sending, logs and analytics                              | TypeScript |
